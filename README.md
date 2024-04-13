@@ -8,14 +8,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jasz-17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Jasz-17&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jasz-17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Jasz-17&theme=darkhub" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.gifer.com/7sBU.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
