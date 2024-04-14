@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Jéssica!+%F0%9F%91%8B)
+
 ###
 
 <br clear="both">
