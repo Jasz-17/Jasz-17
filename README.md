@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jéssica and I'm a junior full-stack developer from Barcelona</h2>
+![Header](./your-header-image-name.png)
 
 ###
 
